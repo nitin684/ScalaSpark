@@ -8,3 +8,5 @@ https://stackoverflow.com/questions/37621590/simple-neural-network-using-linear-
 
 https://developers.google.com/machine-learning/crash-course/multi-class-neural-networks/one-vs-all
 
+https://stackoverflow.com/questions/44625401/plot-a-dataframe-in-scala-using-wisp
+
