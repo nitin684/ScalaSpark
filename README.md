@@ -6,3 +6,5 @@ https://mapr.com/blog/predicting-airbnb-listing-prices-scikit-learn-and-apache-s
 
 https://stackoverflow.com/questions/37621590/simple-neural-network-using-linear-algebra-and-scala-breeze
 
+https://developers.google.com/machine-learning/crash-course/multi-class-neural-networks/one-vs-all
+
