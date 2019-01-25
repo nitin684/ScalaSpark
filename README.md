@@ -12,3 +12,5 @@ https://stackoverflow.com/questions/44625401/plot-a-dataframe-in-scala-using-wis
 
 https://blog.socialcops.com/technology/data-science/machine-learning-for-big-data/
 
+https://www.kaggle.com/c/titanic/discussion/34937
+
