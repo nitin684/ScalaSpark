@@ -14,3 +14,5 @@ https://blog.socialcops.com/technology/data-science/machine-learning-for-big-dat
 
 https://www.kaggle.com/c/titanic/discussion/34937
 
+https://jaceklaskowski.gitbooks.io/mastering-spark-sql/spark-sql-Dataset.html
+
