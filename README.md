@@ -10,3 +10,5 @@ https://developers.google.com/machine-learning/crash-course/multi-class-neural-n
 
 https://stackoverflow.com/questions/44625401/plot-a-dataframe-in-scala-using-wisp
 
+https://blog.socialcops.com/technology/data-science/machine-learning-for-big-data/
+
