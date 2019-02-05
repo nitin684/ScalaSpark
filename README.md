@@ -16,3 +16,7 @@ https://www.kaggle.com/c/titanic/discussion/34937
 
 https://jaceklaskowski.gitbooks.io/mastering-spark-sql/spark-sql-Dataset.html
 
+https://spark.apache.org/news/strata-exercises-now-available-online.html
+
+https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learning
+
