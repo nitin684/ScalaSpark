@@ -20,3 +20,5 @@ https://spark.apache.org/news/strata-exercises-now-available-online.html
 
 https://www.datacamp.com/community/tutorials/apache-spark-tutorial-machine-learning
 
+https://mapr.com/ebooks/spark/08-recommendation-engine-spark.html
+
