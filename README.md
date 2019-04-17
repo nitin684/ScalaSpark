@@ -28,6 +28,8 @@ https://www.dataquest.io/blog/data-science-portfolio-project/
 
 https://www.quora.com/How-do-I-get-a-job-as-a-data-scientist-if-I-have-no-prior-experience-It-seems-like-Kaggle-is-either-meaningless-or-an-ineffective-route-to-becoming-a-data-scientist-I-was-also-told-there-is-no-point-in-putting-up-my-code-on-GitHub#
 
+https://towardsdatascience.com/data-cleaning-and-feature-engineering-in-python-b4d448366022
+
 # TextFiles
 
 Analytics vidhya Links:
