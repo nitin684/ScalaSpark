@@ -30,6 +30,8 @@ https://www.quora.com/How-do-I-get-a-job-as-a-data-scientist-if-I-have-no-prior-
 
 https://towardsdatascience.com/data-cleaning-and-feature-engineering-in-python-b4d448366022
 
+https://machinelearningmastery.com/
+
 # TextFiles
 
 Analytics vidhya Links:
